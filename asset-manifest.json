@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/nairashwin/count-down-react/static/css/main.5a20f46e.chunk.css",
-    "main.js": "/nairashwin/count-down-react/static/js/main.4220892b.chunk.js",
-    "main.js.map": "/nairashwin/count-down-react/static/js/main.4220892b.chunk.js.map",
-    "runtime-main.js": "/nairashwin/count-down-react/static/js/runtime-main.d61ab592.js",
-    "runtime-main.js.map": "/nairashwin/count-down-react/static/js/runtime-main.d61ab592.js.map",
-    "static/js/2.1dc95d2b.chunk.js": "/nairashwin/count-down-react/static/js/2.1dc95d2b.chunk.js",
-    "static/js/2.1dc95d2b.chunk.js.map": "/nairashwin/count-down-react/static/js/2.1dc95d2b.chunk.js.map",
-    "index.html": "/nairashwin/count-down-react/index.html",
-    "static/css/main.5a20f46e.chunk.css.map": "/nairashwin/count-down-react/static/css/main.5a20f46e.chunk.css.map",
-    "static/js/2.1dc95d2b.chunk.js.LICENSE.txt": "/nairashwin/count-down-react/static/js/2.1dc95d2b.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/nairashwin/count-down-react/static/media/pattern-hills.815d688f.svg"
+    "main.css": "/nairashwin/count-down-react/tree/develop/static/css/main.57e74d05.chunk.css",
+    "main.js": "/nairashwin/count-down-react/tree/develop/static/js/main.4220892b.chunk.js",
+    "main.js.map": "/nairashwin/count-down-react/tree/develop/static/js/main.4220892b.chunk.js.map",
+    "runtime-main.js": "/nairashwin/count-down-react/tree/develop/static/js/runtime-main.583a7206.js",
+    "runtime-main.js.map": "/nairashwin/count-down-react/tree/develop/static/js/runtime-main.583a7206.js.map",
+    "static/js/2.1dc95d2b.chunk.js": "/nairashwin/count-down-react/tree/develop/static/js/2.1dc95d2b.chunk.js",
+    "static/js/2.1dc95d2b.chunk.js.map": "/nairashwin/count-down-react/tree/develop/static/js/2.1dc95d2b.chunk.js.map",
+    "index.html": "/nairashwin/count-down-react/tree/develop/index.html",
+    "static/css/main.57e74d05.chunk.css.map": "/nairashwin/count-down-react/tree/develop/static/css/main.57e74d05.chunk.css.map",
+    "static/js/2.1dc95d2b.chunk.js.LICENSE.txt": "/nairashwin/count-down-react/tree/develop/static/js/2.1dc95d2b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/nairashwin/count-down-react/tree/develop/static/media/pattern-hills.815d688f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d61ab592.js",
+    "static/js/runtime-main.583a7206.js",
     "static/js/2.1dc95d2b.chunk.js",
-    "static/css/main.5a20f46e.chunk.css",
+    "static/css/main.57e74d05.chunk.css",
     "static/js/main.4220892b.chunk.js"
   ]
 }
