@@ -1,13 +1,91 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+* {
+  font-family: 'Red Hat Text', sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h1 {
+  text-transform: uppercase;
+  color: hsl(0, 0%, 100%);
+  letter-spacing: 6px;
+  text-align: center;
+  position: relative;
+  top: 80px;
+}
+
+body {
+  margin: 0;
+  background-color: hsl(235, 16%, 14%);
+  background-image: url("../src/images/bg-stars.svg");
+}
+
+.hills {
+  width: 100%;
+  margin: 0;
+  background-image: url("../src/images/pattern-hills.svg");
+  background-position: center;
+  background-size: cover;
+  position: fixed;
+  height: 27%;
+  bottom: 0;
+  left: 0;
+  z-index: -5;
+}
+
+.countDown {
+  width: 100vw;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.countDown-box {
+  width: 150px;
+  height: 150px;
+  margin: 15px;
+  border-radius: 5px;
+  font-size: 50px;
+  background-color: hsl(236, 21%, 26%);
+}
+
+.countDown-item {
+  text-align: center;
+  font-size: 4.5rem;
+  margin-top: 21%;
+  color: hsl(345, 95%, 68%);
+}
+
+.countDown-box p {
+  text-transform: uppercase;
+  color: hsl(237, 18%, 59%);
+  text-align: center;
+  font-size: 16px;
+  font-weight: 700;
+  margin-top: 42px;
+  letter-spacing: 4px;
+}
+
+.icon-bar {
+  /* border: 2px solid white; */
+  text-align: center;
+  position: absolute;
+  left: 44.334%;
+  bottom: 10%;
+  margin: auto;
+}
+
+.social-media-icon {
+  width: 24px;
+  height: 24px;
+  margin: 38px 10px;
+  display: inline-block;
+}
+
+#fb-icon {
+  background-image: url(../src/images/icon-facebook.svg);
+}
+#pin-icon {
+  background-image: url(../src/images/icon-pinterest.svg);
+}
+#ig-icon {
+  background-image: url(../src/images/icon-instagram.svg);
 }
